@@ -1,0 +1,17 @@
+{
+  "name": "leact",
+  "version": "1.0.0",
+  "description": "extremely minimalistic KISS component class library/framework",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TODO"
+  },
+  "keywords": [
+    "component"
+  ],
+  "author": "lechos22",
+  "license": "BSD-3-Clause"
+}
